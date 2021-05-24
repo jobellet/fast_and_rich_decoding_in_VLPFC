@@ -1,5 +1,5 @@
 # fast_and_rich_decoding_in_VLPFC
-# This is a collection of python notebooks reproducing the figures from the paper entitled:Decoding rapidly presented visual stimuli from prefrontal ensembles without report nor post-perceptual processing
+# This is a collection of python notebooks reproducing the figures from the paper entitled: **Decoding rapidly presented visual stimuli from prefrontal ensembles without report nor post-perceptual processing**
 
 # To repoduce figure 2 to 4 of the main manuscript please run this notebook:
 
