@@ -13,6 +13,6 @@ You can run them easily from colab or on you personnal computer
 ## To repoduce supplementary figure 4C and 4D  please run this notebook.
 
 ## To repoduce supplementary figure 5A and 5B please run this notebook.
-[monkeyA_PFC_VS_PPC.ipynb](https://colab.research.google.com/github/jobellet/fast_and_rich_decoding_in_VLPFC/blob/main/monkeyA_PFC_VS_PPC.ipynb.ipynb)
+[monkeyA_PFC_VS_PPC.ipynb](https://colab.research.google.com/github/jobellet/fast_and_rich_decoding_in_VLPFC/blob/main/monkeyA_PFC_VS_PPC.ipynb)
 ## To repoduce supplementary figure 5C and 5D  please run this notebook.
-[monkeyH_PFC_VS_PPC.ipynb](https://colab.research.google.com/github/jobellet/fast_and_rich_decoding_in_VLPFC/blob/main/monkeyH_PFC_VS_PPC.ipynb.ipynb)
+[monkeyH_PFC_VS_PPC.ipynb](https://colab.research.google.com/github/jobellet/fast_and_rich_decoding_in_VLPFC/blob/main/monkeyH_PFC_VS_PPC.ipynb)
