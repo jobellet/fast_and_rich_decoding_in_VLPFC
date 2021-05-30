@@ -9,7 +9,7 @@ You can run them on you personnal computer running python 3 with the toolbox in 
 [reproduce_monkeyH_PFC_figures.ipynb](https://colab.research.google.com/github/jobellet/fast_and_rich_decoding_in_VLPFC/blob/main/reproduce_monkeyH_PFC_figures.ipynb)
 
 ## To repoduce supplementary figure 4A and 4B please run this notebook.
-[reproduce_monkeyA_timing_figure](https://colab.research.google.com/github/jobellet/fast_and_rich_decoding_in_VLPFC/blob/main/reproduce_monkeyA_timing_figure.ipynb
+[reproduce_monkeyA_timing_figure.ipynb](https://colab.research.google.com/github/jobellet/fast_and_rich_decoding_in_VLPFC/blob/main/reproduce_monkeyA_timing_figure.ipynb)
 
 ## To repoduce supplementary figure 4C and 4D  please run this notebook.
 [reproduce_monkeyH_timing_figure.ipynb](https://colab.research.google.com/github/jobellet/fast_and_rich_decoding_in_VLPFC/blob/main/reproduce_monkeyH_timing_figure.ipynb)
