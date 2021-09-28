@@ -17,7 +17,7 @@ You can run them on your personal computer running python 3 with the toolbox in 
 ## To reproduce supplementary figures 5A, 5B, 5E, and 5F please run this notebook.
 [monkeyA_PFC_VS_PPC.ipynb](https://colab.research.google.com/github/jobellet/fast_and_rich_decoding_in_VLPFC/blob/main/monkeyA_PFC_VS_PPC.ipynb)
 
-## To reproduce supplementary figures 5C, 5D,5G, and 5H please run this notebook.
+## To reproduce supplementary figures 5C, 5D, 5G, and 5H please run this notebook.
 [monkeyH_PFC_VS_PPC.ipynb](https://colab.research.google.com/github/jobellet/fast_and_rich_decoding_in_VLPFC/blob/main/monkeyH_PFC_VS_PPC.ipynb)
 
 
