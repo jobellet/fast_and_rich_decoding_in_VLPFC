@@ -1,6 +1,6 @@
 # fast_and_rich_decoding_in_VLPFC
 # This is a collection of python notebooks reproducing the figures from the paper entitled: **Decoding rapidly presented visual stimuli from prefrontal ensembles without report nor post-perceptual processing**
-You can run them on your personal computer running python 3 with the toolbox in requirements.txt installed or you can run them online without installing anything on your computer by clicking on the links below:
+You can run them online without installing anything on your computer by clicking on the links below:
 
 ## To reproduce figure 2 to 4 of the main manuscript and supplementary figure 6 please run this notebook:
 [reproduce_monkeyA_figures.ipynb](https://colab.research.google.com/github/jobellet/fast_and_rich_decoding_in_VLPFC/blob/main/reproduce_monkeyA_figures.ipynb)
@@ -22,4 +22,4 @@ You can run them on your personal computer running python 3 with the toolbox in 
 
 
 
-Some notebooks might run for a day if all the computations are reproduced from scratch. To gain time, in some cells of the notebook you can set the parameter "compute_this_step" to False to download the data directly from Figshare instead of running the computations.
+Some notebooks might run for a whole day if all the computations are reproduced from scratch. To gain time, in some cells of the notebook you can set the parameter "compute_this_step" to False to download the data directly from Figshare instead of running the computations.
